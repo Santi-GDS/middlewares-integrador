@@ -1,1 +1,27 @@
-[]
+[
+ {
+  "id": 0,
+  "email": "santi@gmail.com"
+ },
+ {
+  "id": 1,
+  "email": "juanperez@gmail.com",
+  "password": "$2a$10$xYP8SBp/CnZXxN9NKoJ6K.sTVWTWMoRpqbBI/pjYDX.thZ1GTPs.a",
+  "retype": "$2a$10$aqPUGnLvWK8S4axzRHl25u.ufkM9zro/Lq4m7voUpLMcAui/13CZ.",
+  "avatar": "1609271511730-Sin título.png"
+ },
+ {
+  "id": 2,
+  "email": "santiago@gmail.com",
+  "password": "$2a$10$YKvPw03ZCtRsl9bUxzyjTeXeRM7AX0/NgkCyxSgECXeUAWp.gh2I6",
+  "retype": "$2a$10$JaKvM.BG5KbysMcrFOK0lO9k6xdiAkLqaxrpNF9dsjssdBP6KCeyy",
+  "avatar": "1609271741692-16177707_1072816196180743_4914322063434626196_o.jpg"
+ },
+ {
+  "id": 3,
+  "email": "jose@feliciano.com",
+  "password": "$2a$10$zDZSXYvhzVRLmHfxUOQzeek.niDsvmflywePxZxhMveR.XBWjBwMW",
+  "retype": "$2a$10$H9l8QZrayHJrV2hL5gCtguUx04rQZUKrgpF4hntypwJAbHmHRpwTS",
+  "avatar": "1609299049671-Sin título.png"
+ }
+]
