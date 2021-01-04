@@ -52,7 +52,7 @@ module.exports = {
         });
     }
 
-    const foundUser = getAllUsers();
+    const foundUser = getAllUsers().find(user => user.email == req.body.email);
     req.session.user = foundUser;
 
         if (req.body.remember) {
